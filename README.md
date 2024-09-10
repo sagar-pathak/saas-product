@@ -1,2 +1,2 @@
 # saas-product
-Next.js Web Application
+Next.js Web Application + Tailwind.css
